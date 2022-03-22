@@ -6,7 +6,7 @@ Full stack web developer, love working on group projects and learning new things
 - 🌱 I’m currently learning postgreSQL
 - 😄 Pronouns: she/her
 - 🥊 Hobbies: boxing, coding, forest walks with 🐶
-- 📪 Contact: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rachael-k) 
+- 📪 Contact: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rachael-kunz) 
 <br>
 
 ##### Some of the technologies I have worked with
