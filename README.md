@@ -23,6 +23,8 @@ Full stack web developer, love working on group projects and learning new things
 - SASS
 - Figma
 
+<br>
+
 ![Rachael's github stats](https://github-readme-stats.vercel.app/api?username=rmk-creative&show_icons=true&theme=dark)
 
 
