@@ -3,7 +3,7 @@
 Full stack web developer, love working on group projects and learning new things.
 
 - 🔭 I’m currently working on an adaptable scheduling app 
-- 🌱 I’m currently learning postgreSQL
+- 🌱 I’m currently learning Vue & Typescript
 - 😄 Pronouns: she/her
 - 🥊 Hobbies: boxing, coding, forest walks with my 🐶
 - 📪 Contact: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rachael-kunz) 
